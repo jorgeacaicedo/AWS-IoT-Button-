@@ -1,0 +1,4 @@
+Readme
+
+STACK_NAME = vpc-development-and-testing
+TEMPLATE_URL = https://s3.us-east-2.amazonaws.com/awswaf-owasp/owasp_10_base.yml
